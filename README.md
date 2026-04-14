@@ -42,7 +42,7 @@ Tras casi 20 años coordinando equipos y servicios en el sector social, he decid
   > [Verificación en Microsoft Learn](https://learn.microsoft.com/es-es/users/josdanielmongemartnez-7049/credentials/certification/azure-fundamentals?tab=credentials-tab)
 
 ### 🎓 Formación Académica
-* **Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR)** *En curso - Centro de Estudios [Tu Centro]*
+* **Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR)** *En curso - Centro de Estudios Ilerna Online
 
 ---
 
