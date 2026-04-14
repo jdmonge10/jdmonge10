@@ -31,6 +31,21 @@ Tras casi 20 años coordinando equipos y servicios en el sector social, he decid
 
 ---
 
+## 📜 Certificaciones y Formación
+
+### 🐧 Linux & Open Source
+* **LPIC-1: Linux Administrator** ![LPIC-1](https://img.shields.io/badge/LPI-LPIC--1-black?style=flat&logo=linux)
+  > [Verificación en Credly](https://www.credly.com/badges/accfa59e-334e-402b-8228-fa64c329782c)
+
+### ☁️ Cloud & Microsoft
+* **Microsoft Certified: Azure Fundamentals (AZ-900)** ![Azure](https://img.shields.io/badge/Microsoft-AZ--900-blue?style=flat&logo=microsoft-azure)
+  > [Verificación en Microsoft Learn](https://learn.microsoft.com/es-es/users/josdanielmongemartnez-7049/credentials/certification/azure-fundamentals?tab=credentials-tab)
+
+### 🎓 Formación Académica
+* **Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR)** *En curso - Centro de Estudios [Tu Centro]*
+
+---
+
 ## 📫 Conecta conmigo:
 * 📍 **Madrid, España** (Disponibilidad inmediata).
 * 💼 **Objetivo:** IT Support | Help Desk | Junior SysAdmin | Cloud Junior.
