@@ -1,4 +1,4 @@
-# ¡Hola! Soy J.D. Monge 👋
+# ¡Hola! Soy José D. Monge 👋
 
 ### Técnico de Sistemas Junior | Administrador de Sistemas en formación (ASIR)
 
