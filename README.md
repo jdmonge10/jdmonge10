@@ -35,5 +35,5 @@ Tras casi 20 años coordinando equipos y servicios en el sector social, he decid
 * 📍 **Madrid, España** (Disponibilidad inmediata).
 * 💼 **Objetivo:** IT Support | Help Desk | Junior SysAdmin | Cloud Junior.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_PERFIL_AQUÍ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josé-daniel-monge-b32bb5135)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jdmonge10@gmail.com)
