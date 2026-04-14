@@ -9,7 +9,7 @@ Tras casi 20 años coordinando equipos y servicios en el sector social, he decid
 ## 🛠️ Stack Técnico
 
 ### 💻 Sistemas y Virtualización
-* **Sistemas Operativos:** Windows Server, Ubuntu Server, Linux (Debian).
+* **Sistemas Operativos:** Windows Server, Ubuntu Server, Linux (Debian, Ubuntu, etc).
 * **Virtualización:** VMware, VirtualBox.
 * **Directorio Activo:** Gestión de usuarios y políticas en Active Directory.
 
